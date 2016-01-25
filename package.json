@@ -1,0 +1,14 @@
+{
+  "name": "tm1303.WWW",
+  "version": "0.0.0",
+  "description": "www for tm1303",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Maxwell (tm1303)",
+  "license": "ISC",
+  "dependencies": {
+    "node-http-server": "^4.5.2"
+  }
+}
